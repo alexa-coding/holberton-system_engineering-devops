@@ -5,3 +5,4 @@
 4. Display current directory contents, including hidden files (starting with .). Use the long format.
 5. Display all files in long format with user and group IDs displayed numerically
 6. Creates a directory named holberton in the /tmp/ directory
+7. Move the file betty from /tmp/ to /tmp/holberton
