@@ -9,3 +9,4 @@
 8. Delete the file betty from /tmp/holberton
 9. Delete the directory holberton that is in the /tmp directory
 10. Changes the working directory to the previous one.
+11. Lists all files (including hiden) in the current directory, previous directory, and /boot directory in long format
