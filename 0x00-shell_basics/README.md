@@ -10,3 +10,4 @@
 9. Delete the directory holberton that is in the /tmp directory
 10. Changes the working directory to the previous one.
 11. Lists all files (including hiden) in the current directory, previous directory, and /boot directory in long format
+12. Prints the type of the file named iamafile. This file resides in the /tmp directory
