@@ -8,3 +8,4 @@
 7. Move the file betty from /tmp/ to /tmp/holberton
 8. Delete the file betty from /tmp/holberton
 9. Delete the directory holberton that is in the /tmp directory
+10. Changes the working directory to the previous one.
