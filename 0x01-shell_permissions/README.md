@@ -8,3 +8,4 @@
 7-everybody --> Adds execution permission to the owner, the group owner and the other users, to the file hello.
 8-James_Bond --> Sets the permission to the file hello as 007.
 9-John_Doe --> Sets the permission to the file hello as 753.
+10-mirror_permissions --> Sets the mode of the file hello the same as olleh’s mode.
