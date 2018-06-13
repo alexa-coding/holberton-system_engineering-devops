@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+sx .
+chmod ugo+sX .
