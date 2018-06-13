@@ -9,3 +9,4 @@
 8-James_Bond --> Sets the permission to the file hello as 007.
 9-John_Doe --> Sets the permission to the file hello as 753.
 10-mirror_permissions --> Sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions --> Adds execute persmissions to all subdirectories of the current directory to owner, group, and others. Regular files are not changed.
