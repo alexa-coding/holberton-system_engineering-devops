@@ -12,3 +12,5 @@
 11-directories_permissions --> Adds execute persmissions to all subdirectories of the current directory to owner, group, and others. Regular files are not changed.
 12-directory_permissions --> Creates a directory called dir_holberton with permissions 751 in the working directory.
 13-change_group --> Changes the group owner to holberton for the file hello.
+14-change_owner_and_group --> Changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+15-symbolic_link_permissions --> Changes the owner and the group owner of the file _hello to betty and holberton respectively (_hello is a symbolic link).
