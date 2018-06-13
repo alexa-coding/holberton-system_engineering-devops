@@ -16,3 +16,4 @@
 *15-symbolic_link_permissions --> Changes the owner and the group owner of the file _hello to betty and holberton respectively (_hello is a symbolic link).
 *16-if_only --> Changes the owner of the file hello to betty only if it is owned by the user guillaume.
 *100-Star_Wars --> Play the StarWars IV episode in the terminal.
+*101-man_holberton --> Create a man page.
