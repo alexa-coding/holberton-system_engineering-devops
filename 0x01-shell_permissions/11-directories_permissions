@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+sxX .
+chmod ugo+x $(find . -type d)
