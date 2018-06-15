@@ -2,3 +2,5 @@
 - 1-confused_smiley -> Displays "(Ôo)'
 - 2-hellofile -> Displays the content of the /etc/passwd file.
 - 3-twofiles -> Displays the content of the /etc/passwd and /etc/hosts files.
+- 4-lastlines -> Displays the last 10 lines of the /etc/passwd.
+- 
