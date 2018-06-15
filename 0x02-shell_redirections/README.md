@@ -1,6 +1,7 @@
-- 0. Hello World -> Prints "Hello, World" followed by new line.
+- 0-hello_world  -> Prints "Hello, World" followed by new line.
 - 1-confused_smiley -> Displays "(Ôo)'
 - 2-hellofile -> Displays the content of the /etc/passwd file.
 - 3-twofiles -> Displays the content of the /etc/passwd and /etc/hosts files.
 - 4-lastlines -> Displays the last 10 lines of the /etc/passwd.
-- 
+- 5-firstlines -> Displays the first 10 lines of the /etc/passwd file.
+- 6-third_line -> Displays the 3rd line of the file iacta.
