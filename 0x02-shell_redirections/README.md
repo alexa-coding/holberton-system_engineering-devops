@@ -6,3 +6,4 @@
 - 5-firstlines -> Displays the first 10 lines of the /etc/passwd file.
 - 6-third_line -> Displays the 3rd line of the file iacta.
 - 7-file --> Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
+- 8-cwd_state -> Redirects the output of ls-la into the file ls_cwd_content.
