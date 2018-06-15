@@ -8,3 +8,4 @@
 - 7-file --> Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
 - 8-cwd_state -> Redirects the output of ls-la into the file ls_cwd_content.
 - 9-duplicate_last_line -> DUplicates the last line of the file iacta.
+- 10-no_more_js -> Deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
