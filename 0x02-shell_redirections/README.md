@@ -1,0 +1,3 @@
+- 0. Hello World -> Prints "Hello, World" followed by new line.
+- 1-confused_smiley -> Displays "(Ôo)'
+- 2-hellofile -> Displays the content of the /etc/passwd file. 
