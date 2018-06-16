@@ -23,3 +23,5 @@
 - 22-users_and_homes -> Displays all users and their home directories, sorted by users.
 - 100-empty_casks -> Prints only file names (not path names) or empty files and directories.
 - 101-gifs -> Lists all files that end with th eextension ".gif". The files are sorted by byte values and it's case insensitive.
+- 102-acrostic -> Decodes acrostics that use the first letter of each line.
+- 103-the_biggest_fan -> Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
