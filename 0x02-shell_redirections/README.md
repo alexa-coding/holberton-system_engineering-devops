@@ -21,3 +21,5 @@
 - 20-hiago -> Removes all letters C and c from input.
 - 21-reverse -> Reverses the input.
 - 22-users_and_homes -> Displays all users and their home directories, sorted by users.
+- 100-empty_casks -> Prints only file names (not path names) or empty files and directories.
+- 101-gifs -> Lists all files that end with th eextension ".gif". The files are sorted by byte values and it's case insensitive.
