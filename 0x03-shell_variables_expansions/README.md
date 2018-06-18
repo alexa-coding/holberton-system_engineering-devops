@@ -4,3 +4,4 @@
 *3-paths -> Counts the number of directories in the PATH.
 *4-global_variables -> Lists environment variables.
 *5-local_variables -> Lists all local variables and environment variables, and functions.
+*6-create_local_variable -> Creates local variable.
