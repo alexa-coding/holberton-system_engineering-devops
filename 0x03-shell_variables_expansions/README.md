@@ -9,3 +9,6 @@
 *8-true_knowledge -> Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 *9-divide_and_rule -> Prints the result of POWER divided by DIVIDE, followed by a new line.
 *10-love_exponent_breath -> Displays the result of the variable BREATH to the power LOVE.
+*11-binary_to_decimal -> Converts a number that is stored in the variable BINARY from base 2 to base 10.
+*12-combinations -> Prints all possible combinations of two letters, except oo.
+*13-print_float -> Print a number with 2 decimal places and store it in the environment variable NUM.
